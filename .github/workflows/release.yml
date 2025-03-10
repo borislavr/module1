@@ -1,6 +1,6 @@
 ---
 
-name: Multi-module release
+name: Module release
 
 on:
   workflow_dispatch:
