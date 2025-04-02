@@ -24,7 +24,7 @@ categories:
 
 change-template: |
   - $TITLE (#$NUMBER) by @$AUTHOR
-    $BODY'
+    $BODY
 no-changes-template: 'No significant changes'
 
 template: |
