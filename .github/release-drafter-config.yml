@@ -6,7 +6,7 @@ categories:
 - title: '💥 Breaking Changes'
   labels:
   - breaking-change
-- title: '🚀 New Features'
+- title: '💡 New Features'
   labels:
   - feature
   - enhancement
@@ -23,9 +23,13 @@ categories:
   - documentation
 
 change-template: |
-  <details><summary>(#$NUMBER) $TITLE by @$AUTHOR</summary><p>
-  $BODY
-  </p></details>
+  (#$NUMBER) $TITLE by @$AUTHOR
+
+# change-template: |
+#   <details><summary>(#$NUMBER) $TITLE by @$AUTHOR</summary><p>
+#   $BODY
+#   </p></details>
+
 no-changes-template: 'No significant changes'
 
 template: |
