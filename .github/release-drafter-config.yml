@@ -25,11 +25,6 @@ categories:
 change-template: |
   (#$NUMBER) $TITLE by @$AUTHOR
 
-# change-template: |
-#   <details><summary>(#$NUMBER) $TITLE by @$AUTHOR</summary><p>
-#   $BODY
-#   </p></details>
-
 no-changes-template: 'No significant changes'
 
 template: |
